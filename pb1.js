@@ -3,8 +3,8 @@
 // Return the result
 
 
-function myFunction(string){
-    const three = string.slice(0, 3);
+function myFunction(str){
+    const three = str.slice(0, 3);
     return three;
 }
 
